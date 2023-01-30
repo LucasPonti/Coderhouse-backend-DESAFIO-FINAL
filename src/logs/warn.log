@@ -246,3 +246,5 @@
 [28-01-2023 13:37:14] [31merror[39m: [31mGET /favicon.ico 404[39m
 [28-01-2023 17:57:29] [31merror[39m: [31mGET / 302[39m
 [29-01-2023 20:42:30] [31merror[39m: [31mGET /favicon.ico 404[39m
+[29-01-2023 22:22:01] [31merror[39m: [31mGET /public/views/pages/add-product.ejs 404[39m
+[29-01-2023 22:49:05] [31merror[39m: [31mGET /images/iphone.jpg 404[39m
