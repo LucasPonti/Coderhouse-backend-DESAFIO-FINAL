@@ -60,7 +60,6 @@ ADM_ACCOUNT=
 🛠️ Técnologias y recursos
 Node.js
 Express
-Typescript
 MongoDB
 Passport JWT
 Mongoose
